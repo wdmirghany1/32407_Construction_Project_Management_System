@@ -1,4 +1,4 @@
-# 32407_Construction_Project_Management_System
+# 32407_MOHANAD_Construction_Project_Management_System
 Step 1: Create the Oracle User
 Open Oracle SQL Developer and connect as a privileged user (e.g., SYSTEM).
 Run the script:
